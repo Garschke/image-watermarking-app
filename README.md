@@ -19,7 +19,7 @@ Adjust watermark properties.
 Change watermark text color if desired.
 ![Screenshot of text color dialog](src/text_color.png)
 
-Apply watermark applied to image.
+Add watermark(s) to image.
 ![Screenshot of watermark applied to image](src/watermark_text_image_applied.png)
 
 Save watermarked image.
@@ -56,7 +56,7 @@ python3 watermark_app.py
 Follow the steps from the Demo:
 Load image to have watermark applied.
 Adjust watermark properties.
-Apply watermark.
+Add watermark(s).
 Save watermarked image.
 
 ## Dependencies
