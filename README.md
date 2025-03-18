@@ -33,7 +33,7 @@ Save watermarked image.
 ### Steps
 1. Clone the repository:
 ```sh
-git clone https://github.com/your-username/image-watermarking-app.git
+git clone https://github.com/Garschke/image-watermarking-app.git
 cd image-watermarking-app
 ```
 
